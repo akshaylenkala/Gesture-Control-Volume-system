@@ -22,7 +22,7 @@ It allows users to control the system's audio volume by making specific hand ges
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/hand-gesture-volume-control.git
+https://github.com/akshaylenkala/Gesture-Control-Volume-system
 cd hand-gesture-volume-control
 
 
